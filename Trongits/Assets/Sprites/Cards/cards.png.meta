@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 6a6b353094ef24abe8ae302cdf172004
+timeCreated: 1454320457
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 4_Spades
+    21300002: 8_Hearts
+    21300004: Jack_Diamond
+    21300006: King_Heart
+    21300008: Queen_Clubs
+    21300010: bg
+    21300012: bg_2
+    21300014: 10_Spades
+    21300016: King_Clubs
+    21300018: Jack_Hearts
+    21300020: Ace_Diamonds
+    21300022: 8_Diamonds
+    21300024: 3_Hearts
+    21300026: 3_Spades
+    21300028: 8_Spades
+    21300030: 9_Hearts
+    21300032: Ace_Hearts
+    21300034: Jack_Clubs
+    21300036: Queen_Spades
+    21300038: 10_Diamonds
+    21300040: 10_Hearts
+    21300042: Queen_Diamonds
+    21300044: King_Spades
+    21300046: Ace_Clubs
+    21300048: 9_Clubs
+    21300050: 9_Spades
+    21300052: 7_Clubs
+    21300054: 2_Hearts
+    21300056: 2_Spades
+    21300058: 7_Hearts
+    21300060: 8_Clubs
+    21300062: 9_Diamonds
+    21300064: Ace_Spades
+    21300066: Jack_Spades
+    21300068: King_Diamonds
+    21300070: Queen_Hearts
+    21300072: 10_Clubs
+    21300074: 7_Diamonds
+    21300076: 7_Spades
+    21300078: 6_Clubs
+    21300080: 6_Hearts
+    21300082: 6_Diamonds
+    21300084: 6_Spades
+    21300086: 5_Clubs
+    21300088: 5_Hearts
+    21300090: 5_Diamonds
+    21300092: 5_Spades
+    21300094: 4_Clubs
+    21300096: 4_Hearts
+    21300098: 4_Diamonds
+    21300100: 3_Clubs
+    21300102: 3_Diamonds
+    21300104: 2_Clubs
+    21300106: 2_Diamonds
+    21300108: cards_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: cards_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 1019
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 509.5, y: -239.5}
+        - {x: 509.5, y: -164.5}
+        - {x: 505.5, y: -160.5}
+        - {x: 457.5, y: -160.5}
+        - {x: 453.5, y: -164.5}
+        - {x: 449.5, y: -160.5}
+        - {x: 401.5, y: -160.5}
+        - {x: 397.5, y: -164.5}
+        - {x: 393.5, y: -160.5}
+        - {x: 345.5, y: -160.5}
+        - {x: 341.5, y: -164.5}
+        - {x: 337.5, y: -160.5}
+        - {x: 289.5, y: -160.5}
+        - {x: 285.5, y: -164.5}
+        - {x: 281.5, y: -160.5}
+        - {x: 233.5, y: -160.5}
+        - {x: 229.5, y: -164.5}
+        - {x: 225.5, y: -160.5}
+        - {x: 177.5, y: -160.5}
+        - {x: 173.5, y: -164.5}
+        - {x: 169.5, y: -160.5}
+        - {x: 121.5, y: -160.5}
+        - {x: 117.5, y: -164.5}
+        - {x: 113.5, y: -160.5}
+        - {x: 65.5, y: -160.5}
+        - {x: 61.5, y: -164.5}
+        - {x: 57.5, y: -160.5}
+        - {x: 9.5, y: -160.5}
+        - {x: 5.5, y: -164.5}
+        - {x: 1.5, y: -160.5}
+        - {x: -3.5, y: -158.5}
+        - {x: -3.5, y: -87.5}
+        - {x: -9.5, y: -81.5}
+        - {x: -57.5, y: -81.5}
+        - {x: -63.5, y: -83.5}
+        - {x: -59.5, y: -79.5}
+        - {x: -59.5, y: -8.5}
+        - {x: -65.5, y: -2.5}
+        - {x: -113.5, y: -2.5}
+        - {x: -119.5, y: -4.5}
+        - {x: -115.5, y: -0.5}
+        - {x: -115.5, y: 70.5}
+        - {x: -118.5, y: 75.5}
+        - {x: -115.5, y: 77.5}
+        - {x: -115.5, y: 145.5}
+        - {x: -120.5, y: 150.5}
+        - {x: -170.5, y: 150.5}
+        - {x: -171.5, y: 153.5}
+        - {x: -171.5, y: 227.5}
+        - {x: -173.5, y: 229.5}
+        - {x: -228.5, y: 229.5}
+        - {x: -233.5, y: 234.5}
+        - {x: -281.5, y: 234.5}
+        - {x: -285.5, y: 230.5}
+        - {x: -289.5, y: 234.5}
+        - {x: -337.5, y: 234.5}
+        - {x: -341.5, y: 230.5}
+        - {x: -345.5, y: 234.5}
+        - {x: -393.5, y: 234.5}
+        - {x: -395.5, y: 237.5}
+        - {x: -399.5, y: 241.5}
+        - {x: -507.5, y: 241.5}
+        - {x: -509.5, y: 239.5}
+        - {x: -509.5, y: -241.5}
+        - {x: 507.5, y: -241.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,942 @@
+fileFormatVersion: 2
+guid: b74ccf68ee47d40518c0ee77dcf50b73
+timeCreated: 1454322148
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 4_Clubs
+    21300002: 8_Hearts
+    21300004: Jack_Diamonds
+    21300006: King_Hearts
+    21300008: Queen_Spades
+    21300010: BG
+    21300012: 3_Hearts
+    21300014: 8_Diamonds
+    21300016: Ace_Diamonds
+    21300018: Jack_Hearts
+    21300020: King_Spades
+    21300022: 10_Clubs
+    21300024: BG2
+    21300026: 3_Clubs
+    21300028: 8_Clubs
+    21300030: 9_Hearts
+    21300032: Ace_Hearts
+    21300034: Jack_Spades
+    21300036: Queen_Clubs
+    21300038: 10_Diamonds
+    21300040: 2_Hearts
+    21300042: 7_Spades
+    21300044: 9_Clubs
+    21300046: 9_Spades
+    21300048: Ace_Spades
+    21300050: King_Clubs
+    21300052: Queen_Diamonds
+    21300054: 10_Hearts
+    21300056: 2_Clubs
+    21300058: 7_Hearts
+    21300060: 8_Spades
+    21300062: 9_Diamonds
+    21300064: Ace_Clubs
+    21300066: Jack_Clubs
+    21300068: King_Diamonds
+    21300070: Queen_Hearts
+    21300072: 10_Spades
+    21300074: Empty
+    21300076: 2_Diamonds
+    21300078: 2_Spades
+    21300080: 3_Diamonds
+    21300082: 3_Spades
+    21300084: 4_Diamonds
+    21300086: 4_Hearts
+    21300088: 4_Spades
+    21300090: 5_Clubs
+    21300092: 5_Diamonds
+    21300094: 5_Hearts
+    21300096: 5_Spades
+    21300098: 6_Clubs
+    21300100: 6_Diamonds
+    21300102: 6_Hearts
+    21300104: 6_Spades
+    21300106: 7_Clubs
+    21300108: 7_Diamonds
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -2
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: 4_Clubs
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 434
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: 8_Hearts
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 434
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: Jack_Diamonds
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 425
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: King_Hearts
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 425
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: Queen_Spades
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 425
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: BG
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 425
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 36.5}
+        - {x: -27, y: -36.5}
+        - {x: 27, y: -36.5}
+        - {x: 27, y: 36.5}
+    - name: 3_Hearts
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 355
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: 8_Diamonds
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 355
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: Ace_Diamonds
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 346
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: Jack_Hearts
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 346
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: King_Spades
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 346
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: 10_Clubs
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 346
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: BG2
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 346
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 36.5}
+        - {x: -27, y: -36.5}
+        - {x: 27, y: -36.5}
+        - {x: 27, y: 36.5}
+    - name: 3_Clubs
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 276
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: 8_Clubs
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 276
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: 9_Hearts
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 267
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: Ace_Hearts
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 267
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: Jack_Spades
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 267
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: Queen_Clubs
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 267
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: 10_Diamonds
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 267
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: 2_Hearts
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 197
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: 7_Spades
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 197
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: 9_Clubs
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 188
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: 9_Spades
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 188
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: Ace_Spades
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 188
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: King_Clubs
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 188
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: Queen_Diamonds
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 188
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: 10_Hearts
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 188
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: 2_Clubs
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 118
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: 7_Hearts
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 118
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: 8_Spades
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 109
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: 9_Diamonds
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 109
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: Ace_Clubs
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 109
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: Jack_Clubs
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 109
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: King_Diamonds
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 109
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: Queen_Hearts
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 109
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: 10_Spades
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 109
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: Empty
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 44}
+        - {x: -33.5, y: -44}
+        - {x: 33.5, y: -44}
+        - {x: 33.5, y: 44}
+    - name: 2_Diamonds
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 30
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: 2_Spades
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 30
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: 3_Diamonds
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 30
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: 3_Spades
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 30
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: 4_Diamonds
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 30
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: 4_Hearts
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 30
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: 4_Spades
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 30
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: 5_Clubs
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 30
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: 5_Diamonds
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 30
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: 5_Hearts
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 30
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: 5_Spades
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 30
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: 6_Clubs
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 30
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: 6_Diamonds
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 30
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: 6_Hearts
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 30
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: 6_Spades
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 30
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: 7_Clubs
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 30
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    - name: 7_Diamonds
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 30
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 38.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 38.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,789 @@
+fileFormatVersion: 2
+guid: 5fea663161e000f4d8589e51aa1c6bc1
+timeCreated: 1449206616
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Blank Button
+    21300002: sort by weight
+    21300004: Blank button big
+    21300006: Next button
+    21300008: Play
+    21300010: round yellow button
+    21300012: round red button
+    21300014: gameComponent_0
+    21300016: gameComponent_1
+    21300018: Blank button grey
+    21300020: round orange button
+    21300022: cross button
+    21300024: Join Now
+    21300026: Message
+    21300028: sort by category
+    21300030: sound
+    21300032: Yellow square
+    21300034: leave table
+    21300036: bring loads
+    21300038: jackpot
+    21300040: message text
+    21300042: turn clockwise
+    21300044: turn anticlockwise
+    21300046: Hitter
+    21300048: King
+    21300050: ace
+    21300052: settings
+    21300054: Sound
+    21300056: Cards button
+    21300058: sound volume
+    21300060: blue blank
+    21300062: player data
+    21300064: round green button
+    21300066: backward
+    21300068: pause
+    21300070: black background
+    21300072: message 2
+    21300074: white round
+    21300076: blue round
+    21300078: black banner
+    21300080: blue bg
+    21300082: round corner black
+    21300084: white bg
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Blank Button
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 948
+        width: 96
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 28}
+        - {x: -48, y: -28}
+        - {x: 48, y: -28}
+        - {x: 48, y: 28}
+    - name: sort by weight
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 891
+        width: 95
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: 27.5}
+        - {x: -47.5, y: -27.5}
+        - {x: 46.5, y: -27.5}
+        - {x: 47.5, y: -26.5}
+        - {x: 47.5, y: 27.5}
+    - name: Blank button big
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 986
+        width: 144
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: 17}
+        - {x: -72, y: -17}
+        - {x: 72, y: -17}
+        - {x: 72, y: 17}
+    - name: Next button
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 985
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Play
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 986
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: round yellow button
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 980
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 18}
+        - {x: -18.5, y: -12}
+        - {x: -12.5, y: -18}
+        - {x: 9.5, y: -18}
+        - {x: 18.5, y: -11}
+        - {x: 18.5, y: 18}
+    - name: round red button
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 982
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gameComponent_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 658
+        width: 480
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49, y: 162.5}
+        - {x: 49, y: 163.5}
+        - {x: 27, y: 163.5}
+        - {x: 27, y: 162.5}
+        - {x: 29, y: 160.5}
+        - {x: 15, y: 160.5}
+        - {x: 17, y: 162.5}
+        - {x: 17, y: 163.5}
+        - {x: -9, y: 163.5}
+        - {x: -9, y: 162.5}
+        - {x: -7, y: 160.5}
+        - {x: -95, y: 160.5}
+        - {x: -91, y: 161.5}
+        - {x: -91, y: 163.5}
+        - {x: -235, y: 163.5}
+        - {x: -234, y: 160.5}
+        - {x: -240, y: 160.5}
+        - {x: -240, y: -163.5}
+        - {x: 240, y: -163.5}
+        - {x: 240, y: 160.5}
+        - {x: 47, y: 160.5}
+    - name: gameComponent_1
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 625
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Blank button grey
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 840
+        width: 89
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 21}
+        - {x: -44.5, y: -21}
+        - {x: 44.5, y: -21}
+        - {x: 44.5, y: 21}
+    - name: round orange button
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 866
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cross button
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 829
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 18}
+        - {x: -18, y: 12}
+        - {x: -18, y: -10}
+        - {x: -11, y: -18}
+        - {x: 10, y: -18}
+        - {x: 18, y: -11}
+        - {x: 18, y: 10}
+        - {x: 11, y: 18}
+    - name: Join Now
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 782
+        width: 147
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 22}
+        - {x: -73.5, y: -22}
+        - {x: 73.5, y: -22}
+        - {x: 73.5, y: 22}
+    - name: Message
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 778
+        width: 85
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 31.5}
+        - {x: -42.5, y: 29.5}
+        - {x: -42.5, y: -30.5}
+        - {x: -41.5, y: -31.5}
+        - {x: 39.5, y: -31.5}
+        - {x: 42.5, y: -28.5}
+        - {x: 42.5, y: 28.5}
+        - {x: 39.5, y: 31.5}
+    - name: sort by category
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 773
+        width: 95
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: 28.5}
+        - {x: -47.5, y: -28.5}
+        - {x: 47.5, y: -28.5}
+        - {x: 47.5, y: 28.5}
+    - name: sound
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 747
+        width: 86
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 32.5}
+        - {x: -43, y: -31.5}
+        - {x: -42, y: -32.5}
+        - {x: 41, y: -32.5}
+        - {x: 43, y: -30.5}
+        - {x: 43, y: 32.5}
+    - name: Yellow square
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 747
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: leave table
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 695
+        width: 106
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 24.5}
+        - {x: -53, y: 15.5}
+        - {x: -53, y: -15.5}
+        - {x: -48, y: -24.5}
+        - {x: 53, y: -24.5}
+        - {x: 53, y: 24.5}
+    - name: bring loads
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 699
+        width: 110
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: 33.5}
+        - {x: -55, y: -33.5}
+        - {x: 55, y: -33.5}
+        - {x: 55, y: 33.5}
+    - name: jackpot
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 641
+        width: 221
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110.5, y: 67.5}
+        - {x: -110.5, y: -62.5}
+        - {x: -108.5, y: -67.5}
+        - {x: 110.5, y: -67.5}
+        - {x: 110.5, y: 16.5}
+        - {x: 99.5, y: 67.5}
+    - name: message text
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 635
+        width: 234
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -117, y: 24.5}
+        - {x: -117, y: -23.5}
+        - {x: -115, y: -24.5}
+        - {x: 117, y: -24.5}
+        - {x: 117, y: 24.5}
+    - name: turn clockwise
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 569
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 24.5}
+        - {x: -25.5, y: 17.5}
+        - {x: -25.5, y: -24.5}
+        - {x: 20.5, y: -24.5}
+        - {x: 25.5, y: -18.5}
+        - {x: 25.5, y: 24.5}
+    - name: turn anticlockwise
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 507
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 25}
+        - {x: -25, y: -21}
+        - {x: -24, y: -25}
+        - {x: 25, y: -25}
+        - {x: 25, y: 21}
+        - {x: 23, y: 25}
+    - name: Hitter
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 501
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: King
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 444
+        width: 72
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 28}
+        - {x: -36, y: -28}
+        - {x: 36, y: -28}
+        - {x: 36, y: 28}
+    - name: ace
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 389
+        width: 72
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 27.5}
+        - {x: -36, y: -27.5}
+        - {x: 36, y: -27.5}
+        - {x: 36, y: 27.5}
+    - name: settings
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 323
+        width: 76
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 32.5}
+        - {x: -38, y: -32.5}
+        - {x: 38, y: -32.5}
+        - {x: 38, y: 32.5}
+    - name: Sound
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 258
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 32.5}
+        - {x: -37.5, y: -32.5}
+        - {x: 37.5, y: -32.5}
+        - {x: 37.5, y: 32.5}
+    - name: Cards button
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 195
+        width: 76
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 31.5}
+        - {x: -38, y: -31.5}
+        - {x: 38, y: -31.5}
+        - {x: 38, y: 31.5}
+    - name: sound volume
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 194
+        width: 86
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 32}
+        - {x: -43, y: -32}
+        - {x: 41, y: -32}
+        - {x: 43, y: -30}
+        - {x: 43, y: 32}
+    - name: blue blank
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 136
+        width: 131
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.5, y: 28.5}
+        - {x: -65.5, y: -28.5}
+        - {x: 65.5, y: -28.5}
+        - {x: 65.5, y: 28.5}
+    - name: player data
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 6
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: 64}
+        - {x: -64, y: 62}
+        - {x: -64, y: -63}
+        - {x: -63, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: round green button
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 80
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: backward
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 46
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pause
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 10
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: black background
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 5
+        width: 252
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -126, y: 100.5}
+        - {x: -126, y: -100.5}
+        - {x: 126, y: -100.5}
+        - {x: 126, y: 100.5}
+    - name: message 2
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 216
+        width: 234
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -117, y: 23.5}
+        - {x: -117, y: -23.5}
+        - {x: 115, y: -23.5}
+        - {x: 117, y: -21.5}
+        - {x: 117, y: 23.5}
+    - name: white round
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 275
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blue round
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 275
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: black banner
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 563
+        width: 503
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -251.5, y: 31}
+        - {x: -251.5, y: -31}
+        - {x: 251.5, y: -31}
+        - {x: 251.5, y: 31}
+    - name: blue bg
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 308
+        width: 478
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -239, y: 126.5}
+        - {x: -239, y: -126.5}
+        - {x: 239, y: -126.5}
+        - {x: 239, y: 126.5}
+    - name: round corner black
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 318
+        width: 436
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 206, y: -154}
+        - {x: 206, y: -152}
+        - {x: 210, y: -149}
+        - {x: 211, y: -145}
+        - {x: 215, y: -140}
+        - {x: 215, y: -138}
+        - {x: 218, y: -134}
+        - {x: 218, y: 122}
+        - {x: 215, y: 126}
+        - {x: 215, y: 128}
+        - {x: 212, y: 133}
+        - {x: 212, y: 135}
+        - {x: 209, y: 140}
+        - {x: 205, y: 145}
+        - {x: 197, y: 153}
+        - {x: 195, y: 153}
+        - {x: 195, y: 156}
+        - {x: 193, y: 158}
+        - {x: 187, y: 162}
+        - {x: 183, y: 165}
+        - {x: 179, y: 166}
+        - {x: -172, y: 166}
+        - {x: -173, y: 165}
+        - {x: -177, y: 165}
+        - {x: -180, y: 161}
+        - {x: -182, y: 161}
+        - {x: -189, y: 158}
+        - {x: -195, y: 152}
+        - {x: -194, y: 149}
+        - {x: -198, y: 148}
+        - {x: -205, y: 143}
+        - {x: -207, y: 138}
+        - {x: -209, y: 135}
+        - {x: -209, y: 133}
+        - {x: -214, y: 128}
+        - {x: -214, y: 125}
+        - {x: -216, y: 121}
+        - {x: -218, y: 116}
+        - {x: -218, y: -122}
+        - {x: -216, y: -127}
+        - {x: -213, y: -133}
+        - {x: -213, y: -135}
+        - {x: -209, y: -139}
+        - {x: -208, y: -143}
+        - {x: -206, y: -146}
+        - {x: -202, y: -151}
+        - {x: -199, y: -153}
+        - {x: -189, y: -163}
+        - {x: -182, y: -166}
+        - {x: 191, y: -166}
+        - {x: 193, y: -164}
+        - {x: 195, y: -164}
+        - {x: 202, y: -158}
+    - name: white bg
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 602
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -301, y: 151.5}
+        - {x: -301, y: -151.5}
+        - {x: 301, y: -151.5}
+        - {x: 301, y: 151.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

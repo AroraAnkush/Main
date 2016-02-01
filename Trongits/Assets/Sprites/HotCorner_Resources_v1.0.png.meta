@@ -1,0 +1,331 @@
+fileFormatVersion: 2
+guid: fb4e1c8991b349348ad767f9b4332951
+timeCreated: 1449207892
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: top left panel
+    21300002: bottom left panel
+    21300004: top  right corner
+    21300006: bottom right panel
+    21300008: add table
+    21300010: yout turn
+    21300012: other text
+    21300014: waiting
+    21300016: current
+    21300018: HotCorner_Resources_v1.0_0
+    21300020: last
+    21300022: wild a
+    21300024: turn
+    21300026: chips
+    21300028: table account
+    21300030: total account
+    21300032: mega jackpot
+    21300034: sound
+    21300036: HotCorner_Resources_v1.0_1
+    21300038: HotCorner_Resources_v1.0_2
+    21300040: HotCorner_Resources_v1.0_3
+    21300042: HotCorner_Resources_v1.0_4
+    21300044: table
+    21300046: hand
+    21300048: send table info to support
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: top left panel
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 687
+        width: 572
+        height: 557
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bottom left panel
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 555
+        height: 569
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: top  right corner
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 673
+        width: 557
+        height: 571
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bottom right panel
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 0
+        width: 565
+        height: 548
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: add table
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 10
+        width: 270
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yout turn
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 116
+        width: 196
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: other text
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 200
+        width: 113
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: waiting
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 248
+        width: 196
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: current
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 377
+        width: 195
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HotCorner_Resources_v1.0_0
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 516
+        width: 152
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: last
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 618
+        width: 71
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wild a
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 617
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: turn
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 618
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chips
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 737
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: table account
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 829
+        width: 265
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: total account
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 978
+        width: 265
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mega jackpot
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1137
+        width: 265
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sound
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1081
+        width: 137
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HotCorner_Resources_v1.0_1
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 889
+        width: 138
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HotCorner_Resources_v1.0_2
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 691
+        width: 139
+        height: 162
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HotCorner_Resources_v1.0_3
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 562
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HotCorner_Resources_v1.0_4
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 464
+        width: 122
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: table
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 359
+        width: 265
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hand
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 210
+        width: 266
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: send table info to support
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 46
+        width: 235
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

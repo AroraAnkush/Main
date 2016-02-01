@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 5145251e9ef027f46abf8559d3daccd5
+timeCreated: 1453173613
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Leave Practice
+    21300002: Practice tables
+    21300004: Card_Bg
+    21300006: learn
+    21300008: Tables
+    21300010: Sign In
+    21300012: Register
+    21300014: Tournaments
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 0
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Leave Practice
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 864
+        width: 381
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -190.5, y: 76.5}
+        - {x: -190.5, y: -76.5}
+        - {x: 190.5, y: -76.5}
+        - {x: 190.5, y: 76.5}
+    - name: Practice tables
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 862
+        width: 391
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -191.5, y: 79}
+        - {x: -195.5, y: 73}
+        - {x: -195.5, y: -77}
+        - {x: -194.5, y: -79}
+        - {x: 195.5, y: -79}
+        - {x: 195.5, y: 79}
+    - name: Card_Bg
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 785
+        width: 139
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69.5, y: 102}
+        - {x: -69.5, y: -102}
+        - {x: 68.5, y: -102}
+        - {x: 69.5, y: -101}
+        - {x: 69.5, y: 102}
+    - name: learn
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 684
+        width: 762
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -381, y: 82}
+        - {x: -381, y: -82}
+        - {x: 381, y: -82}
+        - {x: 381, y: 82}
+    - name: Tables
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 513
+        width: 386
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -192, y: 78}
+        - {x: -193, y: 77}
+        - {x: -193, y: -78}
+        - {x: 193, y: -78}
+        - {x: 193, y: 78}
+    - name: Sign In
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 513
+        width: 385
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -192.5, y: 77.5}
+        - {x: -192.5, y: -77.5}
+        - {x: 192.5, y: -77.5}
+        - {x: 192.5, y: 77.5}
+    - name: Register
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 342
+        width: 384
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -192, y: 78}
+        - {x: -192, y: -78}
+        - {x: 192, y: -78}
+        - {x: 192, y: 78}
+    - name: Tournaments
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 342
+        width: 383
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -191.5, y: 77.5}
+        - {x: -191.5, y: -77.5}
+        - {x: 191.5, y: -77.5}
+        - {x: 191.5, y: 77.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Ashish prj/AgeOfRevenge/Assets/Scripts/Effects/Grave.cs">
+    <Files>
+      <File FileName="../Ashish prj/AgeOfRevenge/Assets/TK2DROOT/tk2d/Code/Sprites/tk2dSpriteAnimator.cs" Line="167" Column="1" />
+      <File FileName="../Ashish prj/AgeOfRevenge/Assets/TK2DROOT/tk2dUI/Code/Core/tk2dUISpriteAnimator.cs" Line="8" Column="41" />
+      <File FileName="../Ashish prj/AgeOfRevenge/Assets/Scripts/Units/DobbitAnimController.cs" Line="29" Column="50" />
+      <File FileName="../Ashish prj/AgeOfRevenge/Assets/TK2DROOT/tk2d/Code/Sprites/tk2dClippedSprite.cs" Line="1" Column="1" />
+      <File FileName="../Ashish prj/AgeOfRevenge/Assets/Scripts/Effects/Grave.cs" Line="12" Column="56" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
